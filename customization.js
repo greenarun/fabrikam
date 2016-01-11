@@ -38,7 +38,7 @@ $('.drop').droppable({
 
 
 $('a.freeze').click(function(){
-	  $(this).text('Freezed !').css('color','red').css('cursor','default').css('background-image','url(freezed.png)').css('padding-left','19px');
+	  $(this).text('Freezed !').css('color','red').css('cursor','default').css('background-image','url(http://2.bp.blogspot.com/-2mUXyVKUWYI/VpMXFm9TGuI/AAAAAAAAHuU/MUs1uFtstX4/s1600/freezed.png)').css('padding-left','19px');
 		$(this).prev('div').addClass('freezed');		 
 	  });
 	  
